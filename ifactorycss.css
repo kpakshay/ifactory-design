@@ -1,0 +1,243 @@
+body{
+    /* height: 100%;
+    margin: opx; */
+    width: 100%;
+    padding:0px;
+    margin: 0px;
+}
+.cp{
+    font-family: 'Kaushan Script', cursive;
+    
+}
+.ss{
+    font-family: 'Roboto', sans-serif;
+}
+.foot{
+    font-family: 'Roboto', sans-serif;
+}
+.im1{
+    color: white;
+    height: 700px;
+    background: rgb(34, 8, 34);
+    transform: skew(0,-5deg);
+    /* clip-path: polygon(0% 0%, 100% 00%, 100% 95%,00% 100%); */
+    /* text-align: center; */
+    font-family: 'Fredericka the Great', cursive;
+    padding: 10%;
+}
+.im1 p{
+    transform: skew(0,5deg);
+}
+.im2{
+    height:700px;
+    /* margin-top: -80px; */
+    background-image: url(./image/img2.jpg);
+    transform: skew(0,-5deg);
+    background-size: cover;
+    opacity: 1;
+
+}
+.im22{
+    height: 700px;
+    background-color: rgb(163, 66, 155);
+    background-size: cover;
+    opacity: .9;
+}
+.im222{
+    transform: skew(0,5deg);
+    color: #000;
+}
+.im3{
+    height:700px;
+    background-image: url(./image/img3.jpg);
+    
+    transform: skew(0,-5deg);
+    background-size: cover;
+    opacity: 1;
+
+}
+.im33{
+    height: 700px;
+    background-color: rgb(58, 157, 214);
+    background-size: cover;
+    opacity: .9;
+}
+.im333{
+    transform: skew(0,5deg);
+    color: #000;
+}
+.im4{
+    height:700px;
+    background-image: url(./image/img4.jpg);
+    transform: skew(0,-5deg);
+    background-size: cover;
+    opacity: 1;
+
+}
+.im44{
+    height: 700px;
+    background-color: rgb(49, 134, 85);
+    background-size: cover;
+    opacity: .9;
+}
+.im444{
+    transform: skew(0,5deg);
+    color: #000;
+}
+.im5{
+    height:700px;
+    background-image: url(./image/img5.jpg);
+    transform: skew(0,-5deg);
+    background-size: cover;
+    opacity: 1;
+
+}
+.im55{
+    height: 700px;
+    background-color: rgb(153, 149, 106);
+    background-size: cover;
+    opacity: .9;
+}
+.im555{
+    transform: skew(0,5deg);
+    color: #000;
+}
+.im6{
+    height:700px;
+    background-image: url(./image/img2.jpg);
+    transform: skew(0,-5deg);
+    background-size: cover;
+    opacity: 1;
+
+}
+.im66{
+    height: 700px;
+    background-color: rgb(214, 58, 58);
+    background-size: cover;
+    opacity: .9;
+}
+.im666{
+    transform: skew(0,5deg);
+    color: #000;
+}
+.im7{
+    height:700px;
+    background-image: url(./image/img6.jpg);
+    transform: skew(0,-5deg);
+    background-size: cover;
+    opacity: 1;
+
+}
+.im77{
+    height: 700px;
+    background-color: rgb(116, 111, 101);
+    background-size: cover;
+    opacity: .9;
+}
+.im777{
+    transform: skew(0,5deg);
+    color: #000;
+}
+
+/* .im4{
+
+  height:700px;
+  position:relative;
+  display:block;
+  padding: 10%;
+}
+.im4::before{
+    content: "";
+    content:"";
+    background-image: url(./image/img4.jpg);
+    background-color: rgb(49, 134, 85);
+    background-blend-mode:overlay;
+    transform: skew(0,-5deg);
+    background-size: cover;
+    opacity:0.3;
+    position:absolute;
+    top:0;
+    bottom:0;
+    right:0;
+    left:0;
+    width:auto;
+    height:auto;
+    z-index:-3;
+} */
+
+/* clip-path: polygon(0% 10%, 100% 00%, 100% 90%,00% 100%); */
+/* .im2{
+    background-image: url(./image/img2.jpg);
+    background-color: rgb(163, 66, 155);
+    height: 700px;
+    background-size: cover;
+    background-blend-mode:overlay;
+    
+    transform: skew(0,-5deg);
+    padding: 10%;
+}
+.im2 p{
+    color: rgb(0, 0, 0);
+    transform: skew(0,5deg);
+    padding-left: 40%;
+} */
+/* .im3{
+    background-blend-mode:luminosity;
+    height: 700px;
+    background-size: cover;
+    text-align: right;
+    transform: skew(0,-5deg);
+    
+    color: black;
+    
+    padding: 10%;
+}
+.im3 p{
+    transform: skew(0,5deg);
+    padding-right: 30%;
+} */
+/* .im4{
+    background-image: url(./image/img4.jpg);
+    background-color: rgb(49, 134, 85);
+    height: 700px;
+    background-size: cover;
+    background-blend-mode:overlay;
+   
+    transform: skew(0,-5deg);
+    padding: 10%;
+}
+.im4 p{
+    color: rgb(0, 0, 0);
+    transform: skew(0,5deg);
+    padding-left: 40%;
+} */
+/* .im5{
+   
+    height: 700px;
+    background-size: cover;
+    
+    opacity: .7;
+    background-blend-mode:luminosity;
+    color: black;
+    padding: 10%;
+}
+.im6{
+    
+    height: 700px;
+    background-size: cover;
+    
+    opacity: .7;
+    background-blend-mode:luminosity;
+    color: black;
+    padding: 10%;
+}
+.im7{
+    
+    height: 700px;
+    background-size: cover;
+    
+    opacity: .7;
+    background-blend-mode:luminosity;
+    color: black;
+    padding: 10%;
+} */ 
